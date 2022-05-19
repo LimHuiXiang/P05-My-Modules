@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <TextView
+        android:id="@+id/Mod1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#E60C0C"
+        android:text="@string/mod1"
+        android:textColor="#000000"
+        android:textColorHighlight="#FA0E0E"
+        android:textColorLink="#FB0000"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Mod2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009688"
+        android:text="@string/mod2"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Mod3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEB3B"
+        android:text="@string/mod3"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+</LinearLayout>
+

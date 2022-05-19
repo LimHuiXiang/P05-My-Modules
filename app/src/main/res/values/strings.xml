@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod1">C346 Android Programming</string>
+    <string name="mod2">C382 IT Service Delivery</string>
+    <string name="mod3">C322 Date Center and Cloud Computing</string>
+    <string name ="back"> HomePage</string>
+</resources>
